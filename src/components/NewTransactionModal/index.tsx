@@ -18,9 +18,9 @@ export function NewTransactionModal({
 }: NewTransactionModalProps) {
   const [type, setType] = useState('deposit');
 
-  //   function handleTransactionType(type: 'deposit' | 'withdraw') {
-  //     setType(type);
-  //   }
+  function handleTransactionType(type: 'deposit' | 'withdraw') {
+    setType(type);
+  }
 
   return (
     <Modal
@@ -46,6 +46,7 @@ export function NewTransactionModal({
             type="button"
             onClick={() => setType('deposit')}
             isActive={type === 'deposit'}
+            activeColor="green"
           >
             <img src={incomeImg} alt="Entrada" />
             <span>Entrada</span>
@@ -54,6 +55,7 @@ export function NewTransactionModal({
             type="button"
             onClick={() => setType('withdraw')}
             isActive={type === 'withdraw'}
+            activeColor="red"
           >
             <img src={outcomeImg} alt="Entrada" />
             <span>Saída</span>
