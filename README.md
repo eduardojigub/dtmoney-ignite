@@ -5,26 +5,26 @@ dtMoney is a personal finance management application created with React-js in th
 <img alt="" title="" src="https://user-images.githubusercontent.com/47367373/229123439-5b788915-067a-47bf-ad9b-c581aa528274.gif"/>
 </h1>
 
-Features
-[x] Add a new transaction
-[x] List all transactions
-[x] Control income, outcome and total
-In the project directory, you can run:
+## Features
+- [x] Add a new transaction
+- [x] List all transactions
+- [x] Control income, outcome and total
 
-Requirements
-Clone this repository
+
+## Requirements
+  Clone this repository
 $ git clone
 
-Access the project folder on terminal/cmd
+# Access the project folder on terminal/cmd
 $ cd folder-name
 
-Install dependencies
+# Install dependencies
 $ yarn
 
 OR
 $ npm i
 
-Run the application in development mode
+# Run the application in development mode
 $ npm start
 #OR
 $ yarn start
