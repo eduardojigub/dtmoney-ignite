@@ -1,43 +1,39 @@
-# dtMoney
-
-dtMoney é uma aplicação para controle de finanças pessoais criando com React-js na trilha do módulo 2 de React na plataforma Rocketseat. Os dados das transações são salvos em uma api criada com o MirageJS no próprio projeto.
+dtMoney
+dtMoney is a personal finance management application created with React-js in the module 2 track of React on the Rocketseat platform. Transaction data is saved in an API created with MirageJS within the project.
 
 <h1 align="center">
-  <img alt="" title="" src="https://user-images.githubusercontent.com/47367373/229123439-5b788915-067a-47bf-ad9b-c581aa528274.gif"/>
+<img alt="" title="" src="https://user-images.githubusercontent.com/47367373/229123439-5b788915-067a-47bf-ad9b-c581aa528274.gif"/>
 </h1>
 
-
-## Features
-- [x] Adicionar uma nova transação
-- [x] Listagem de todas as transações
-- [x] Controle de entradas, saídas e total
-
-
+Features
+[x] Add a new transaction
+[x] List all transactions
+[x] Control income, outcome and total
 In the project directory, you can run:
 
-## Requisitos
-
-# Clone este repositório
+Requirements
+Clone this repository
 $ git clone
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd nome-da-pasta-clonada
+Access the project folder on terminal/cmd
+$ cd folder-name
 
-# Instale as dependências
+Install dependencies
 $ yarn
-# OU
+
+OR
 $ npm i
 
-# Execute a aplicação em modo de desenvolvimento
+Run the application in development mode
 $ npm start
-#OU
+#OR
 $ yarn start
-```
 
 
-## Tecnologias
-Este projeto foi criando com React utilizando TypeScript
-As seguintes ferramentas foram usadas na constução do projeto:
+
+## Technologies
+This project was developed with React using TypeScript.
+The following tools were used in the construction of the project:
 - [TypeScript]
 - [React]
 - [Styled Components]
@@ -46,5 +42,5 @@ As seguintes ferramentas foram usadas na constução do projeto:
 - [MirageJS]
 - [Context API]
 
-## Autor
+## Author
 Eduardo Bruno
