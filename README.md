@@ -6,13 +6,6 @@ dtMoney é uma aplicação para controle de finanças pessoais criando com React
   <img alt="ToDo List" title="ToDo List" src="./github/dtMoney-gif.gif" />
 </h1>
 
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#requisitos">Pré Requisitos</a> •
-  <a href="#tecnologias">Tecnologias</a> •
-  <a href="#autor">Autor</a> •
-</p>
-
 
 ## Features
 - [x] Adicionar uma nova transação
